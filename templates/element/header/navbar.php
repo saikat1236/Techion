@@ -13,8 +13,9 @@
                       <nav class="vl-mobile-menu-active">
                           <ul>
                               <li class="has-dropdown">
-                                  <a href="#">Home <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
-                                  <div class="vl-mega-menu">
+                                  <a href="/">Home <span></span></a>
+                                  <!-- <a href="#">Home <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a> -->
+                                  <!-- <div class="vl-mega-menu">
                                       <div class="vl-home-menu">                    
                                           <div class="row gx-3 row-cols-1 row-cols-md-1 row-cols-lg-5">
                                               <div class="col">
@@ -89,7 +90,7 @@
                                             </div>
                                           </div>
                                       </div>
-                                  </div>
+                                  </div> -->
                               </li>
 
                               <li class="has-dropdown">
@@ -100,22 +101,27 @@
                                       <li><a href="testimonial">Testimonials</a></li>
                                       <li><a href="contact">Contact Us</a></li>
                                       <li><a href="faq">FAQ,s</a></li>
-                                      <li><a href="404">404</a></li>
+                                      <!-- <li><a href="404">404</a></li> -->
                                   </ul>
                               </li>
                               <li><a href="#">Services <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
                                 <ul class="sub-menu">
                                   <li><a href="service">Our Service</a></li>
-                                  <li><a href="#" class="span-arrow">Service Details <span><i class="fa-solid fa-angle-right d-lg-block d-none"></i></span></a>
+                                  <li><a href="service-single">Web Development</a></li>
+                                  <li><a href="service-single">App Development</a></li>
+                                  <li><a href="service-single">AI tools & Automation</a></li>
+                                  <li><a href="service-single">Digital Marketing</a></li>
+                                  <li><a href="service-single">SEO & Content Writing</a></li>
+                                  <!-- <li><a href="#" class="span-arrow">Service Details <span><i class="fa-solid fa-angle-right d-lg-block d-none"></i></span></a>
                                     <ul class="sub-menu menu1">
                                       <li><a href="service-left">Service Left</a></li>
                                       <li><a href="service-right">Service RIght</a></li>
                                       <li><a href="service-single">Service Single</a></li>
                                     </ul>
-                                  </li>
+                                  </li> -->
                               </ul>
                               </li>
-                              <li><a href="#">Case Study <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
+                              <!-- <li><a href="#">Case Study <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
                                 <ul class="sub-menu">
                                   <li><a href="case">Case Study</a></li>
                                   <li><a href="#" class="span-arrow">Case  Details <span><i class="fa-solid fa-angle-right d-lg-block d-none"></i></span></a>
@@ -126,9 +132,9 @@
                                   </ul>
                                   </li>
                               </ul>
-                              </li>
-                              <li><a href="#">Blogs <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
-                                <ul class="sub-menu">
+                              </li> -->
+                              <li><a href="blog1">Blogs <span></span></a>
+                                <!-- <ul class="sub-menu">
                                   <li><a href="#" class="span-arrow">Our Blogs <span><i class="fa-solid fa-angle-right d-lg-block d-none"></i></span></a>
                                     <ul class="sub-menu menu1">
                                       <li><a href="blog1">Blog One</a></li>
@@ -150,7 +156,7 @@
                                       <li><a href="blog-single">Blog Single</a></li>
                                   </ul>
                                   </li>
-                              </ul>
+                              </ul> -->
                               </li>
                               <li><a href="contact">Contact</a></li>
                           </ul>

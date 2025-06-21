@@ -59,7 +59,8 @@ class Application extends BaseApplication
             // ✅ Load DebugKit only in debug mode and only if it exists
     if (Configure::read('debug')) {
         $debugKitPath = ROOT . '/vendor/cakephp/debug_kit';
-        if (is_dir($debugKitPath)) {
+        // if (is_dir($debugKitPath)) {
+                if (is_dir($debugKitPath) && !Plugin::isLoaded('DebugKit')) {
             $this->addPlugin('DebugKit');
         }
     }

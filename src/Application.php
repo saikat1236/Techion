@@ -54,10 +54,16 @@ class Application extends BaseApplication
                 (new TableLocator())->allowFallbackClass(false)
             );
         }
-    // ✅ Only load DebugKit if it's not already loaded
-    if (Configure::read('debug') && !Plugin::isLoaded('DebugKit')) {
-        $this->addPlugin('DebugKit');
+
+
+            // ✅ Load DebugKit only in debug mode and only if it exists
+    if (Configure::read('debug')) {
+        $debugKitPath = ROOT . '/vendor/cakephp/debug_kit';
+        if (is_dir($debugKitPath)) {
+            $this->addPlugin('DebugKit');
+        }
     }
+
     }
 
     /**

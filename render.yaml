@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: techion-php
+    env: docker
+    plan: free
+    repo: https://github.com/saikat1236/Techion
+    branch: main
+    dockerfilePath: Dockerfile

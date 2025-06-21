@@ -15,7 +15,7 @@ declare(strict_types=1);
  * @license   https://opensource.org/licenses/mit-license.php MIT License
  */
 namespace App;
-
+use Cake\Core\Plugin; // ✅ Add this at the top with your use statements
 use Cake\Core\Configure;
 use Cake\Core\ContainerInterface;
 use Cake\Datasource\FactoryLocator;
@@ -54,8 +54,8 @@ class Application extends BaseApplication
                 (new TableLocator())->allowFallbackClass(false)
             );
         }
-            // ✅ Add this block to prevent DebugKit error in production
-    if (Configure::read('debug')) {
+    // ✅ Only load DebugKit if it's not already loaded
+    if (Configure::read('debug') && !Plugin::isLoaded('DebugKit')) {
         $this->addPlugin('DebugKit');
     }
     }

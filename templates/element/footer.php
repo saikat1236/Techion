@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-lg-3 col-md-6">
         <div class="footer-logo1">
-          <img src="/img/logo/logo2.png" alt="">
+          <img src="/img/logo/logo11.png" alt="">
           <div class="space16"></div>
           <p>We provide expert best services  technology to meet your unique needs. Whether you’re looking.</p>
           <div class="space24"></div>

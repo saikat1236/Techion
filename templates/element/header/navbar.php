@@ -5,8 +5,7 @@
           <div class="row align-items-center row-bg3">
               <div class="col-lg-2 col-md-6 col-6">
                   <div class="vl-logo row align-items-center">
-                      <a href="index"><img src="/img/logo/logo-new.jpeg" alt=""></a>
-                      <h2 style="color: aliceblue;">FeynHomi</h2>
+                      <a href="index"><img src="/img/logo/logo1234.png" alt=""></a>
                   </div>
               </div>
               <div class="col-lg-7 d-none d-lg-block">

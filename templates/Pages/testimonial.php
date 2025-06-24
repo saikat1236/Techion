@@ -377,7 +377,7 @@
               </div>
             </div>
             <div class="space24"></div>
-            <p>"The cybersecurity measures Solution implemented by Eitech have given us peace of mind. We feel confident that our data is secure, & we've experience zero breaches since partnering Eitech.”</p>
+            <p>"The cybersecurity measures Solution implemented by FeynHomihave given us peace of mind. We feel confident that our data is secure, & we've experience zero breaches since partnering FeynHomi.”</p>
             <div class="space24"></div>
             <div class="logo-area">
               <img src="/img/elements/elements40.png" alt="">
@@ -404,7 +404,7 @@
               </div>
             </div>
             <div class="space24"></div>
-            <p>"Migrating to the cloud was seamless with Eitech. Their best team guided us through every step now our employees can work from anywhere, IT boosting our team productivity significantly.”</p>
+            <p>"Migrating to the cloud was seamless with FeynHomi. Their best team guided us through every step now our employees can work from anywhere, IT boosting our team productivity significantly.”</p>
             <div class="space24"></div>
             <div class="logo-area">
               <img src="/img/elements/elements40.png" alt="">
@@ -431,7 +431,7 @@
               </div>
             </div>
             <div class="space24"></div>
-            <p>"Working with Eitech has been solution transformative experience for our best organization. Before their involvement, we faced significant challenges with our outdated IT infrastructure.“</p>
+            <p>"Working with FeynHomihas been solution transformative experience for our best organization. Before their involvement, we faced significant challenges with our outdated IT infrastructure.“</p>
             <div class="space24"></div>
             <div class="logo-area">
               <img src="/img/elements/elements40.png" alt="">
@@ -458,7 +458,7 @@
               </div>
             </div>
             <div class="space24"></div>
-            <p>"Partnering with Eitech has been one of the best decisions we've made. We are comprehensive cybersecurity on solutions provided us with the best assurance we needed to protect.”</p>
+            <p>"Partnering with FeynHomihas been one of the best decisions we've made. We are comprehensive cybersecurity on solutions provided us with the best assurance we needed to protect.”</p>
             <div class="space24"></div>
             <div class="logo-area">
               <img src="/img/elements/elements40.png" alt="">
@@ -485,7 +485,7 @@
               </div>
             </div>
             <div class="space24"></div>
-            <p>"Eitech has completely transformed the way we operate as a business. Their custom IT solutions have streamlined our processes, enabling us collaborate effectively across teams, regardless.”</p>
+            <p>"FeynHomihas completely transformed the way we operate as a business. Their custom IT solutions have streamlined our processes, enabling us collaborate effectively across teams, regardless.”</p>
             <div class="space24"></div>
             <div class="logo-area">
               <img src="/img/elements/elements40.png" alt="">

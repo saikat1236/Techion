@@ -53,7 +53,7 @@
                 </div>
                 <div class="content">
                   <h4>Our Email</h4>
-                  <a href="mailto:eitechsolut@gmail.com">eitechsolut@gmail.com</a>
+                  <a href="mailto:FeynHomisolut@gmail.com">FeynHomisolut@gmail.com</a>
                 </div>
               </div>
               <div class="space30 d-lg-none d-block"></div>
@@ -79,7 +79,7 @@
                 </div>
                 <div class="content">
                   <h4>Schedule</h4>
-                  <a href="mailto:eitechsolut@gmail.com">Sunday-Fri: 9 AM – 6 PM</a>
+                  <a href="mailto:FeynHomisolut@gmail.com">Sunday-Fri: 9 AM – 6 PM</a>
                 </div>
               </div>
             </div>

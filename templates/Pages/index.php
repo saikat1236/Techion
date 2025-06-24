@@ -38,7 +38,7 @@
         <div class="col-lg-5">
           <div class="hero-images-area">
             <div class="img1">
-              <img src="/img/all-images/hero/hero-img1.png" alt="">
+              <img src="/img/all-images/hero/hero1.png" alt="">
             </div>
             <div class="image-bg1">
               <img src="/img/all-images/bg/img-bg1.png" alt="">
@@ -91,11 +91,11 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
           <div class="about-header-area heading2">
-            <h5><span><img src="/img/icons/sub-logo1.svg" alt=""></span>About Eitech IT Solution</h5>
+            <h5><span><img src="/img/icons/sub-logo1.svg" alt=""></span>About FeynHomiIT Solution</h5>
             <div class="space24"></div>
             <h2 class="text-anime-style-3">Unlock Business Potential with Tailored IT Services</h2>
             <div class="space16"></div>
-            <p data-aos="fade-left" data-aos-duration="800">At Eitech, we understand that every business unique, which is why we offer customized IT solutions designed to meet.</p>
+            <p data-aos="fade-left" data-aos-duration="800">At FeynHomi, we understand that every business unique, which is why we offer customized IT solutions designed to meet.</p>
             <div class="space28"></div>
             <div class="row" data-aos="fade-left" data-aos-duration="900">
               <div class="col-lg-6 col-md-6">
@@ -131,7 +131,7 @@
             </div>
             <div class="space28"></div>
             <div class="pera-box" data-aos="fade-left" data-aos-duration="1000">
-              <p>“The right IT solutions done just support your on business-they transform it, at Eitech, we believe.”</p>
+              <p>“The right IT solutions done just support your on business-they transform it, at FeynHomi, we believe.”</p>
             </div>
             <div class="space28"></div>
             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
@@ -156,110 +156,110 @@
           </div>
         </div>
       </div>
-
-      <div class="row">
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon1.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">Cyber Security Solution</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>01</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="900">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon2.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">Scalable Cloud Solutions</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>02</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon3.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">Data Protection Services</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>03</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1100">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon4.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">Optimization Management</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>04</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon5.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">HelpDesk 360 Solutions</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>05</h5>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1300">
-          <div class="service1-boxarea">
-            <div class="icons">
-              <img src="/img/icons/service-icon6.svg" alt="">
-            </div>
-            <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
-            </div>
-            <div class="space24"></div>
-            <a href="service-single">Software Development</a>
-            <div class="space16"></div>
-            <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
-            <div class="space24"></div>
-            <h5>06</h5>
-          </div>
-        </div>
+<div class="row">
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="800">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon1.svg" alt="">
       </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">Web Development</a>
+      <div class="space16"></div>
+      <p>We design and develop responsive, high-performance websites tailored to your brand and business goals.</p>
+      <div class="space24"></div>
+      <h5>01</h5>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="900">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon2.svg" alt="">
+      </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">App Development</a>
+      <div class="space16"></div>
+      <p>Build powerful and intuitive mobile apps for Android and iOS platforms that engage your audience on the go.</p>
+      <div class="space24"></div>
+      <h5>02</h5>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon3.svg" alt="">
+      </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">AI Tools & Solutions</a>
+      <div class="space16"></div>
+      <p>Integrate smart AI-driven tools to automate processes, analyze data, and boost operational efficiency.</p>
+      <div class="space24"></div>
+      <h5>03</h5>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1100">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon4.svg" alt="">
+      </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">SEO & Content Writing</a>
+      <div class="space16"></div>
+      <p>Enhance your online presence with SEO-optimized content that ranks, engages, and converts effectively.</p>
+      <div class="space24"></div>
+      <h5>04</h5>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon5.svg" alt="">
+      </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">Digital Marketing</a>
+      <div class="space16"></div>
+      <p>Reach the right audience with strategic digital marketing campaigns across social media, ads, and email.</p>
+      <div class="space24"></div>
+      <h5>05</h5>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1300">
+    <div class="service1-boxarea">
+      <div class="icons">
+        <img src="/img/icons/service-icon6.svg" alt="">
+      </div>
+      <div class="arrow">
+        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+      <div class="space24"></div>
+      <a href="service-single">IT Support & Maintenance</a>
+      <div class="space16"></div>
+      <p>Ensure smooth IT operations with our proactive maintenance, updates, and real-time support services.</p>
+      <div class="space24"></div>
+      <h5>06</h5>
+    </div>
+  </div>
+</div>
+
     </div>
   </div>
   <!--===== SERVICE AREA ENDS =======-->

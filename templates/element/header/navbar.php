@@ -4,8 +4,9 @@
       <div class="container headerfix">
           <div class="row align-items-center row-bg3">
               <div class="col-lg-2 col-md-6 col-6">
-                  <div class="vl-logo">
-                      <a href="index"><img src="/img/logo/logo1.png" alt=""></a>
+                  <div class="vl-logo row align-items-center">
+                      <a href="index"><img src="/img/logo/logo-new.jpeg" alt=""></a>
+                      <h2 style="color: aliceblue;">FeynHomi</h2>
                   </div>
               </div>
               <div class="col-lg-7 d-none d-lg-block">
@@ -23,7 +24,7 @@
                                                           <div class="img1">
                                                             <img src="/img/all-images/demo/demo-img1.png" alt="">
                                                           </div>
-                                                         <a href="index">Eitech - Homepage 01</a>
+                                                         <a href="index">FeynHomi- Homepage 01</a>
                                                          <div class="btn-area1">
                                                           <a href="index" class="vl-btn1">Multi Page</a>
                                                           <div class="space16"></div>
@@ -37,7 +38,7 @@
                                                         <div class="img1">
                                                           <img src="/img/all-images/demo/demo-img2.png" alt="">
                                                         </div>
-                                                        <a href="index2">Eitech - Homepage 02</a>
+                                                        <a href="index2">FeynHomi- Homepage 02</a>
                                                         <div class="btn-area1">
                                                           <a href="index2" class="vl-btn1">Multi Page</a>
                                                           <div class="space16"></div>
@@ -51,7 +52,7 @@
                                                         <div class="img1">
                                                           <img src="/img/all-images/demo/demo-img3.png" alt="">
                                                         </div>
-                                                        <a href="index3">Eitech - Homepage 03</a>
+                                                        <a href="index3">FeynHomi- Homepage 03</a>
                                                         <div class="btn-area1">
                                                           <a href="index3" class="vl-btn1">Multi Page</a>
                                                           <div class="space16"></div>
@@ -65,7 +66,7 @@
                                                         <div class="img1">
                                                           <img src="/img/all-images/demo/demo-img4.png" alt="">
                                                         </div>
-                                                        <a href="index4">Eitech - Homepage 04</a>
+                                                        <a href="index4">FeynHomi- Homepage 04</a>
                                                         <div class="btn-area1">
                                                           <a href="index4" class="vl-btn1">Multi Page</a>
                                                           <div class="space16"></div>
@@ -80,7 +81,7 @@
                                                       <div class="img1">
                                                         <img src="/img/all-images/demo/demo-img5.png" alt="">
                                                       </div>
-                                                      <a href="index5">Eitech - Homepage 05</a>
+                                                      <a href="index5">FeynHomi- Homepage 05</a>
                                                       <div class="btn-area1">
                                                         <a href="index5" class="vl-btn1">Multi Page</a>
                                                         <div class="space16"></div>

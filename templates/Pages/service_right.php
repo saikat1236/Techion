@@ -85,7 +85,7 @@
               </div>
             </div>
             <div class="space32"></div>
-            <h3>Our Eitech Approach</h3>
+            <h3>Our FeynHomiApproach</h3>
             <div class="space20"></div>
             <p>In an era where cyber threats are becoming increasingly sophisticated, protecting your business has never been more crucial. Our Cyber Security Solution offers a comprehen suite of services designed to defend against a wide range of cyber attacks, from data breaches to ransomware. We employ state-of-the-art technologies and strategies to safeguard your sensitive information and IT infrastructure. Our proactive approach.</p>
             <div class="space48"></div>

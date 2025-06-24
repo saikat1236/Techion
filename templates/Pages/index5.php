@@ -687,8 +687,8 @@
               <ul>
                 <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+1 123 456 7890</a></li>
                 <li><a href="#"><img src="/img/icons/location1.svg" alt="">421 Allen, Mexico 4233</a></li>
-                <li><a href="mailto:eitechsolution@com"><img src="/img/icons/email1.svg" alt="">eitechsolution@com</a></li>
-                <li><a href="#"><img src="/img/icons/global1.svg" alt="">eitechsolution.com</a></li>
+                <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">FeynHomisolution@com</a></li>
+                <li><a href="#"><img src="/img/icons/global1.svg" alt="">FeynHomisolution.com</a></li>
               </ul>
             </div>
           </div>
@@ -697,7 +697,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="vl-copyright-area">
-              <p>© Copyright 2025 -Eitech. All Right Reserved</p>
+              <p>© Copyright 2025 -FeynHomi. All Right Reserved</p>
             </div>
           </div>
         </div>

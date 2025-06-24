@@ -176,9 +176,9 @@
             <div class="space24"></div>
             <h2>Unlock the Full Potential Your Company through Innovative Technology Expert</h2>
             <div class="space20"></div>
-            <p>Unlocking the full potential company requires more than just the latest technology; it necessitates comprehensive strategy backed by expert support. At Eitech, we are of understand that each business is unique, with distinct challenges an company goals. </p>
+            <p>Unlocking the full potential company requires more than just the latest technology; it necessitates comprehensive strategy backed by expert support. At FeynHomi, we are of understand that each business is unique, with distinct challenges an company goals. </p>
             <div class="space18"></div>
-            <p>In today’s fast-paced business environment, the ability to adapt and innovate crucial for success. At Eitech, we specialize in providing comprehensive technology solutions that align with your strategic objectives. Our team of experts works closely with you.</p>
+            <p>In today’s fast-paced business environment, the ability to adapt and innovate crucial for success. At FeynHomi, we specialize in providing comprehensive technology solutions that align with your strategic objectives. Our team of experts works closely with you.</p>
             <div class="space18"></div>
             <div class="row">
               <div class="col-lg-6 col-md-6">

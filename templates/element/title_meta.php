@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Eitech - Technology & It Solutions Services</title>
+<title>FeynHomi- Technology & It Solutions Services</title>
 
 <!--=====FAB ICON=======-->
 <?php if (isset($logo2)): ?>

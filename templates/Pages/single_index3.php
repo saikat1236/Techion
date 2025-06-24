@@ -137,7 +137,7 @@
 
           <div class="col-lg-6">
             <div class="about-header-area heading5">
-              <h5 data-aos="fade-left" data-aos-duration="700"><img src="/img/icons/sub-logo3.svg" alt="">About Eitech help desk</h5>
+              <h5 data-aos="fade-left" data-aos-duration="700"><img src="/img/icons/sub-logo3.svg" alt="">About FeynHomihelp desk</h5>
               <div class="space20"></div>
               <h2 class="text-anime-style-3">Our Team Ready to Assist You Anytime, Anywheres</h2>
               <div class="space18"></div>
@@ -176,7 +176,7 @@
             <div class="work-header text-center space-margin60 heading5">
               <h5><img src="/img/icons/sub-logo3.svg" alt="">How It Works</h5>
               <div class="space20"></div>
-              <h2 class="text-anime-style-3">Starts With Eitech Simple Steps!</h2>
+              <h2 class="text-anime-style-3">Starts With FeynHomiSimple Steps!</h2>
             </div>
           </div>
         </div>
@@ -265,9 +265,9 @@
         <div class="row">
           <div class="col-lg-6 m-auto">
             <div class="features heading heading5 text-center">
-              <h5><img src="/img/icons/sub-logo3.svg" alt="">eitech all features</h5>
+              <h5><img src="/img/icons/sub-logo3.svg" alt="">FeynHomiall features</h5>
               <div class="space20"></div>
-              <h2 class="text-anime-style-3">Discover Why Eitech Unique</h2>
+              <h2 class="text-anime-style-3">Discover Why FeynHomiUnique</h2>
             </div>
           </div>
           <div class="space100 d-lg-block d-none"></div>
@@ -705,8 +705,8 @@
               <ul>
                 <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+1 123 456 7890</a></li>
                 <li><a href="#"><img src="/img/icons/location1.svg" alt="">421 Allen, Mexico 4233</a></li>
-                <li><a href="mailto:eitechsolution@com"><img src="/img/icons/email1.svg" alt="">eitechsolution@com</a></li>
-                <li><a href="#"><img src="/img/icons/global1.svg" alt="">eitechsolution.com</a></li>
+                <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">FeynHomisolution@com</a></li>
+                <li><a href="#"><img src="/img/icons/global1.svg" alt="">FeynHomisolution.com</a></li>
               </ul>
             </div>
           </div>
@@ -715,7 +715,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="vl-copyright-area">
-              <p>© Copyright 2025 -Eitech. All Right Reserved</p>
+              <p>© Copyright 2025 -FeynHomi. All Right Reserved</p>
             </div>
           </div>
         </div>

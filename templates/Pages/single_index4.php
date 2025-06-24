@@ -30,7 +30,7 @@
                         <div class="space18"></div>
                         <h1 class="text-anime-style-3">Best Optimized IT For Performance, Security Sustainable Growth</h1>
                         <div class="space16"></div>
-                        <p data-aos="fade-left" data-aos-duration="1000">We offer full suite of IT solutions designed meet the needs of modern businesses. Our Eitech cybersecurity services to provide robust protection for your data & systems while.</p>
+                        <p data-aos="fade-left" data-aos-duration="1000">We offer full suite of IT solutions designed meet the needs of modern businesses. Our FeynHomicybersecurity services to provide robust protection for your data & systems while.</p>
                         <div class="space32"></div>
                         <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">
                             <a href="index" class="vl-btn5"><span class="demo">Book A Free Consultation</span><span class="arrow"><i class="fa-solid fa-arrow-right"></i></span> </a>
@@ -98,7 +98,7 @@
                         <div class="col-lg-1"></div>
                         <div class="col-lg-5">
                             <div class="about-header heading6">
-                                <h5><span><img src="/img/icons/sub-logo4.svg" alt=""></span>About Eitech IT Solution</h5>
+                                <h5><span><img src="/img/icons/sub-logo4.svg" alt=""></span>About FeynHomiIT Solution</h5>
                                 <div class="space24"></div>
                                 <h2 class="text-anime-style-3">Dedicated To Delivering Technology Of Services</h2>
                                 <div class="space16"></div>
@@ -869,8 +869,8 @@
                             <ul>
                                 <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+1 123 456 7890</a></li>
                                 <li><a href="#"><img src="/img/icons/location1.svg" alt="">421 Allen, Mexico 4233</a></li>
-                                <li><a href="mailto:eitechsolution@com"><img src="/img/icons/email1.svg" alt="">eitechsolution@com</a></li>
-                                <li><a href="#"><img src="/img/icons/global1.svg" alt="">eitechsolution.com</a></li>
+                                <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">FeynHomisolution@com</a></li>
+                                <li><a href="#"><img src="/img/icons/global1.svg" alt="">FeynHomisolution.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -879,7 +879,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="vl-copyright-area">
-                            <p>© Copyright 2025 -Eitech. All Right Reserved</p>
+                            <p>© Copyright 2025 -FeynHomi. All Right Reserved</p>
                         </div>
                     </div>
                 </div>

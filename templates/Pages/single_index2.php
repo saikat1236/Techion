@@ -473,7 +473,7 @@
                   <img src="/img/elements/elements21.png" alt="" class="elements21">
                   <h4>Outstanding Service And 24/7 Support</h4>
                   <div class="space12"></div>
-                  <p>“We’ve been working with Eitech for over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
+                  <p>“We’ve been working with FeynHomifor over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
                 </div>
                 <div class="space60"></div>
                 <div class="testimonial-man-info-area">
@@ -503,7 +503,7 @@
                   <div class="space16"></div>
                   <img src="/img/icons/quito2.svg" alt="" class="quito2">
                   <img src="/img/elements/elements21.png" alt="" class="elements21">
-                  <p>“We’ve been working with Eitech for over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
+                  <p>“We’ve been working with FeynHomifor over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
                 </div>
                 <div class="space60"></div>
                 <div class="testimonial-man-info-area">
@@ -533,7 +533,7 @@
                   <div class="space16"></div>
                   <img src="/img/icons/quito2.svg" alt="" class="quito2">
                   <img src="/img/elements/elements21.png" alt="" class="elements21">
-                  <p>“We’ve been working with Eitech for over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
+                  <p>“We’ve been working with FeynHomifor over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
                 </div>
                 <div class="space60"></div>
                 <div class="testimonial-man-info-area">
@@ -563,7 +563,7 @@
                   <div class="space16"></div>
                   <img src="/img/icons/quito2.svg" alt="" class="quito2">
                   <img src="/img/elements/elements21.png" alt="" class="elements21">
-                  <p>“We’ve been working with Eitech for over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
+                  <p>“We’ve been working with FeynHomifor over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
                 </div>
                 <div class="space60"></div>
                 <div class="testimonial-man-info-area">
@@ -593,7 +593,7 @@
                   <div class="space16"></div>
                   <img src="/img/icons/quito2.svg" alt="" class="quito2">
                   <img src="/img/elements/elements21.png" alt="" class="elements21">
-                  <p>“We’ve been working with Eitech for over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
+                  <p>“We’ve been working with FeynHomifor over two years, an their 24/7 customer service has been a game-changer for us. They handle our inbound calls professionally and always ensure our customers are happy their ability.”</p>
                 </div>
                 <div class="space60"></div>
                 <div class="testimonial-man-info-area">
@@ -933,8 +933,8 @@
               <ul>
                 <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+1 123 456 7890</a></li>
                 <li><a href="#"><img src="/img/icons/location1.svg" alt="">421 Allen, Mexico 4233</a></li>
-                <li><a href="mailto:eitechsolution@com"><img src="/img/icons/email1.svg" alt="">eitechsolution@com</a></li>
-                <li><a href="#"><img src="/img/icons/global1.svg" alt="">eitechsolution.com</a></li>
+                <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">FeynHomisolution@com</a></li>
+                <li><a href="#"><img src="/img/icons/global1.svg" alt="">FeynHomisolution.com</a></li>
               </ul>
             </div>
           </div>
@@ -943,7 +943,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="vl-copyright-area">
-              <p>© Copyright 2025 -Eitech. All Right Reserved</p>
+              <p>© Copyright 2025 -FeynHomi. All Right Reserved</p>
             </div>
           </div>
         </div>

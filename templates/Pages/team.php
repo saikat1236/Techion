@@ -310,11 +310,11 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-5">
           <div class="about-header-area heading2">
-            <h5><span><img src="/img/icons/sub-logo1.svg" alt=""></span>About Eitech IT Solution</h5>
+            <h5><span><img src="/img/icons/sub-logo1.svg" alt=""></span>About FeynHomiIT Solution</h5>
             <div class="space24"></div>
             <h2 class="text-anime-style-3">Unlock Business Potential with Tailored IT Services</h2>
             <div class="space16"></div>
-            <p data-aos="fade-left" data-aos-duration="800">At Eitech, we understand that every business unique, which is why we offer customized IT solutions designed to meet.</p>
+            <p data-aos="fade-left" data-aos-duration="800">At FeynHomi, we understand that every business unique, which is why we offer customized IT solutions designed to meet.</p>
             <div class="space28"></div>
             <div class="row" data-aos="fade-left" data-aos-duration="900">
               <div class="col-lg-6 col-md-6">
@@ -350,7 +350,7 @@
             </div>
             <div class="space28"></div>
             <div class="pera-box bg1" data-aos="fade-left" data-aos-duration="1000">
-              <p>“The right IT solutions done just support your on business-they transform it, at Eitech, we believe.”</p>
+              <p>“The right IT solutions done just support your on business-they transform it, at FeynHomi, we believe.”</p>
             </div>
             <div class="space28"></div>
             <div class="btn-area1" data-aos="fade-left" data-aos-duration="1200">

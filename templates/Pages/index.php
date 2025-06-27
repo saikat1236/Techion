@@ -163,10 +163,10 @@
         <img src="/img/icons/service-icon1.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="web-development"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">Web Development</a>
+      <a href="web-development">Web Development</a>
       <div class="space16"></div>
       <p>We design and develop responsive, high-performance websites tailored to your brand and business goals.</p>
       <div class="space24"></div>
@@ -180,10 +180,10 @@
         <img src="/img/icons/service-icon2.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="app-development"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">App Development</a>
+      <a href="app-development">App Development</a>
       <div class="space16"></div>
       <p>Build powerful and intuitive mobile apps for Android and iOS platforms that engage your audience on the go.</p>
       <div class="space24"></div>
@@ -197,10 +197,10 @@
         <img src="/img/icons/service-icon3.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="ai-tools-solutions"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">AI Tools & Solutions</a>
+      <a href="ai-tools-solutions">AI Tools & Solutions</a>
       <div class="space16"></div>
       <p>Integrate smart AI-driven tools to automate processes, analyze data, and boost operational efficiency.</p>
       <div class="space24"></div>
@@ -214,10 +214,10 @@
         <img src="/img/icons/service-icon4.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="seo-content-writing"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">SEO & Content Writing</a>
+      <a href="seo-content-writing">SEO & Content Writing</a>
       <div class="space16"></div>
       <p>Enhance your online presence with SEO-optimized content that ranks, engages, and converts effectively.</p>
       <div class="space24"></div>
@@ -231,10 +231,10 @@
         <img src="/img/icons/service-icon5.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="digital-marketing"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">Digital Marketing</a>
+      <a href="digital-marketing">Digital Marketing</a>
       <div class="space16"></div>
       <p>Reach the right audience with strategic digital marketing campaigns across social media, ads, and email.</p>
       <div class="space24"></div>
@@ -248,10 +248,10 @@
         <img src="/img/icons/service-icon6.svg" alt="">
       </div>
       <div class="arrow">
-        <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+        <a href="it-support-maintenance"><i class="fa-solid fa-arrow-right"></i></a>
       </div>
       <div class="space24"></div>
-      <a href="service-single">IT Support & Maintenance</a>
+      <a href="it-support-maintenance">IT Support & Maintenance</a>
       <div class="space16"></div>
       <p>Ensure smooth IT operations with our proactive maintenance, updates, and real-time support services.</p>
       <div class="space24"></div>
@@ -720,10 +720,10 @@
             </div>
             <div class="content-area">
               <div class="text">
-                <a href="team">SR. Alex Robertson</a>
+                <a href="team">Sourav Singh</a>
                 <div class="space8"></div>
-                <p>Head Of Cybersecurity</p>
-              </div>
+                <p>Founder & MD</p>
+</div>
               <div class="icons">
                 <a href="#"><img src="/img/icons/share1.svg" alt=""></a>
               </div>
@@ -740,13 +740,13 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
           <div class="team-author-boxarea">
             <div class="img1 image-anime">
-              <img src="/img/all-images/team/team-img2.png" alt="">
+              <img src="/img/all-images/team/team-img1.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">
-                <a href="team">Shelia Abernathy</a>
+                <a href="team">Saikat Biswas</a>
                 <div class="space8"></div>
-                <p>Software Development</p>
+                <p>Software Developer</p>
               </div>
               <div class="icons">
                 <a href="#"><img src="/img/icons/share1.svg" alt=""></a>
@@ -763,13 +763,13 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
           <div class="team-author-boxarea">
             <div class="img1 image-anime">
-              <img src="/img/all-images/team/team-img3.png" alt="">
+              <img src="/img/all-images/team/team-img1.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">
-                <a href="team">Devin Romaguera</a>
+                <a href="team">Nikhil Rai</a>
                 <div class="space8"></div>
-                <p>Data Analytics Specialist</p>
+                <p>Cyber Security Specialist</p>
               </div>
               <div class="icons">
                 <a href="#"><img src="/img/icons/share1.svg" alt=""></a>

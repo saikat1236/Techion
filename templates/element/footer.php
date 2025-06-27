@@ -48,10 +48,10 @@
           <div class="space30 d-lg-none d-block"></div>
           <h3>Contact Us</h3>
           <ul>
-            <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+1 123 456 7890</a></li>
-            <li><a href="#"><img src="/img/icons/location1.svg" alt="">421 Allen, Mexico 4233</a></li>
-            <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">FeynHomisolution@com</a></li>
-            <li><a href="#"><img src="/img/icons/global1.svg" alt="">FeynHomisolution.com</a></li>
+            <li><a href="tel:+11234567890"><img src="/img/icons/phn1.svg" alt="">+91 9151890286</a></li>
+            <li><a href="#"><img src="/img/icons/location1.svg" alt="">T2 904, Bhagirathi Enclave, Sushant Golf City Near Lulu Mall 226002, Lucknow, Uttar Pradesh.</a></li>
+            <li><a href="mailto:FeynHomisolution@com"><img src="/img/icons/email1.svg" alt="">Feynhomi@gmail.com</a></li>
+            <li><a href="#"><img src="/img/icons/global1.svg" alt="">Feynhomi.com</a></li>
           </ul>
         </div>
       </div>

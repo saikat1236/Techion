@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="digital-marketing"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Digital Marketing</a>
+            <a href="digital-marketing">Digital Marketing</a>
             <div class="space16"></div>
             <p>Comprehensive digital marketing strategies combining paid, owned, and earned media for maximum impact.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Social Media Management</a>
+            <a href="#">Social Media Management</a>
             <div class="space16"></div>
             <p>Strategic social media planning, content creation, and community management across all platforms.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">PPC Advertising</a>
+            <a href="#">PPC Advertising</a>
             <div class="space16"></div>
             <p>Targeted pay-per-click campaigns on Google, Facebook, LinkedIn, and other advertising platforms.</p>
             <div class="space24"></div>

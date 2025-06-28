@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="app-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Mobile App Development</a>
+            <a href="app-development">Mobile App Development</a>
             <div class="space16"></div>
             <p>Custom native and cross-platform mobile applications for iOS and Android with seamless performance and engaging UX.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="web-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Enterprise Mobility</a>
+            <a href="web-development">Enterprise Mobility</a>
             <div class="space16"></div>
             <p>Secure business apps for field workforce, sales teams, and operations with offline capabilities and backend integration.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="app-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">UI/UX Design</a>
+            <a href="app-development">UI/UX Design</a>
             <div class="space16"></div>
             <p>Beautiful, intuitive interfaces following Material Design and Human Interface Guidelines for superior user experience.</p>
             <div class="space24"></div>

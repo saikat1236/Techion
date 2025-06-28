@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="seo-content-writing"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">SEO Services</a>
+            <a href="seo-content-writing">SEO Services</a>
             <div class="space16"></div>
             <p>Comprehensive search engine optimization to improve your website's visibility and organic search rankings.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="seo-content-writing"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Content Writing</a>
+            <a href="seo-content-writing">Content Writing</a>
             <div class="space16"></div>
             <p>High-quality, engaging content tailored to your brand voice and optimized for search engines.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="seo-content-writing"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Digital Marketing</a>
+            <a href="seo-content-writing">Digital Marketing</a>
             <div class="space16"></div>
             <p>Integrated digital marketing strategies combining SEO, content, and social media for maximum impact.</p>
             <div class="space24"></div>

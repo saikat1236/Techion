@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="it-support-maintenance"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">IT Support & Maintenance</a>
+            <a href="it-support-maintenance">IT Support & Maintenance</a>
             <div class="space16"></div>
             <p>Comprehensive IT support services including helpdesk, system maintenance, and infrastructure management.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="it-support-maintenance"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Managed IT Services</a>
+            <a href="it-support-maintenance">Managed IT Services</a>
             <div class="space16"></div>
             <p>Proactive, outsourced IT management for businesses seeking comprehensive technology support.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Network Security</a>
+            <a href="#">Network Security</a>
             <div class="space16"></div>
             <p>Advanced security solutions including firewall management, threat detection, and vulnerability assessments.</p>
             <div class="space24"></div>

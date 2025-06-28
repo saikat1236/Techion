@@ -156,12 +156,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">Cyber Security Solution</a>
+                            <a href="#">Cyber Security Solution</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -174,12 +174,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">Scalable Cloud Solutions</a>
+                            <a href="#">Scalable Cloud Solutions</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -192,12 +192,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">Data Protection Services</a>
+                            <a href="#">Data Protection Services</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="#" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -210,12 +210,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">Optimization Management</a>
+                            <a href="it-support-maintenance">Optimization Management</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="it-support-maintenance" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -228,12 +228,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">HelpDesk 360 Solutions</a>
+                            <a href="it-support-maintenance">HelpDesk 360 Solutions</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="it-support-maintenance" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -246,12 +246,12 @@
                         </div>
                         <div class="space28"></div>
                         <div class="content-area">
-                            <a href="service-single">Software Development</a>
+                            <a href="web-development">Software Development</a>
                             <div class="space16"></div>
                             <p>Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
                             <div class="space24"></div>
                             <div class="btn-area">
-                                <a href="service-single" class="service-btn">Learn More</a>
+                                <a href="web-development" class="service-btn">Learn More</a>
                             </div>
                         </div>
                     </div>

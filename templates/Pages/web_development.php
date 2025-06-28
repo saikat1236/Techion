@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="web-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Web Development</a>
+            <a href="web-development">Web Development</a>
             <div class="space16"></div>
             <p>Custom web applications built with modern frameworks like React, Angular, and Vue.js, backed by robust Node.js or Python APIs.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="app-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Mobile App Development</a>
+            <a href="app-development">Mobile App Development</a>
             <div class="space16"></div>
             <p>Cross-platform mobile apps using React Native and Flutter, or native iOS/Android development for premium performance.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="web-development"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">E-Commerce Solutions</a>
+            <a href="web-development">E-Commerce Solutions</a>
             <div class="space16"></div>
             <p>Custom online stores with Shopify, WooCommerce, or headless commerce architectures using modern Jamstack approaches.</p>
             <div class="space24"></div>

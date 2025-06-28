@@ -203,10 +203,10 @@
               <img src="/img/icons/service-icon1.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="ai-tools-solutions"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">AI Solutions</a>
+            <a href="ai-tools-solutions">AI Solutions</a>
             <div class="space16"></div>
             <p>Custom AI and machine learning solutions tailored to automate processes, analyze data, and drive intelligent decision-making.</p>
             <div class="space24"></div>
@@ -220,10 +220,10 @@
               <img src="/img/icons/service-icon2.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Data Analytics</a>
+            <a href="#">Data Analytics</a>
             <div class="space16"></div>
             <p>Advanced analytics and business intelligence solutions to uncover insights and drive data-informed strategies.</p>
             <div class="space24"></div>
@@ -237,10 +237,10 @@
               <img src="/img/icons/service-icon3.svg" alt="">
             </div>
             <div class="arrow">
-              <a href="service-single"><i class="fa-solid fa-arrow-right"></i></a>
+              <a href="ai-tools-solutions"><i class="fa-solid fa-arrow-right"></i></a>
             </div>
             <div class="space24"></div>
-            <a href="service-single">Process Automation</a>
+            <a href="ai-tools-solutions">Process Automation</a>
             <div class="space16"></div>
             <p>Intelligent automation solutions combining RPA with AI to streamline operations and reduce manual workloads.</p>
             <div class="space24"></div>

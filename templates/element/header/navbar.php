@@ -5,7 +5,7 @@
           <div class="row align-items-center row-bg3">
               <div class="col-lg-2 col-md-6 col-6">
                   <div class="vl-logo row align-items-center">
-                      <a href="index"><img src="/img/logo/logo1234.png" alt=""></a>
+                      <a href="/"><img src="/img/logo/logo1234.png" alt=""></a>
                   </div>
               </div>
               <div class="col-lg-7 d-none d-lg-block">
@@ -187,7 +187,7 @@
     <div class="vl-offcanvas-wrapper">
         <div class="vl-offcanvas-header d-flex justify-content-between align-items-center mb-90">
             <div class="vl-offcanvas-logo">
-                <a href="index"><img src="/img/logo/logo1.png" alt=""></a>
+                <a href="/"><img src="/img/logo/logo1.png" alt=""></a>
             </div>
             <div class="vl-offcanvas-close">
                <button class="vl-offcanvas-close-toggle"><i class="fa-solid fa-xmark"></i></button>

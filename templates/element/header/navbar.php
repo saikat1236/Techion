@@ -106,7 +106,7 @@
                               </li>
                               <li><a href="#">Services <span><i class="fa-solid fa-angle-down d-lg-inline d-none"></i></span></a>
                                 <ul class="sub-menu">
-                                  <li><a href="service">Our Service</a></li>
+                                  <!-- <li><a href="service">Our Service</a></li> -->
                                   <li><a href="web-development">Web Development</a></li>
                                   <li><a href="app-development">App Development</a></li>
                                   <li><a href="ai-tools-solutions">AI tools & Automation</a></li>

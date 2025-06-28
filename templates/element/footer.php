@@ -22,7 +22,7 @@
           <h3>Quick Links</h3>
           <ul>
             <li><a href="about">About Us</a></li>
-            <li><a href="service">It Solution</a></li>
+            <li><a href="/">It Solution</a></li>
             <li><a href="blog1">Our Blog</a></li>
             <li><a href="#">Pricing Plan</a></li>
             <li><a href="contact">Contact Us</a></li>
@@ -35,11 +35,11 @@
           <div class="space30 d-lg-none d-block"></div>
           <h3>Our Services</h3>
           <ul>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">App Development</a></li>
-            <li><a href="#">AI tools & Automation</a></li>
-            <li><a href="#">Digital Marketing</a></li>
-            <li><a href="#">SEO & Content Writing</a></li>
+            <li><a href="web-development">Web Development</a></li>
+            <li><a href="app-development">App Development</a></li>
+            <li><a href="ai-tools-solutions">AI tools & Automation</a></li>
+            <li><a href="digital-marketing">Digital Marketing</a></li>
+            <li><a href="seo-content-writing">SEO & Content Writing</a></li>
           </ul>
         </div>
       </div>

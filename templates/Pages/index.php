@@ -740,7 +740,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1000">
           <div class="team-author-boxarea">
             <div class="img1 image-anime">
-              <img src="/img/all-images/team/team-img1.png" alt="">
+              <img src="/img/all-images/team/Saikat.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">
@@ -763,7 +763,7 @@
         <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-duration="1200">
           <div class="team-author-boxarea">
             <div class="img1 image-anime">
-              <img src="/img/all-images/team/team-img1.png" alt="">
+              <img src="/img/all-images/team/nikhil.png" alt="">
             </div>
             <div class="content-area">
               <div class="text">

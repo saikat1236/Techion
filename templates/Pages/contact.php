@@ -53,7 +53,7 @@
                 </div>
                 <div class="content">
                   <h4>Our Email</h4>
-                  <a href="mailto:FeynHomisolut@gmail.com">FeynHomisolut@gmail.com</a>
+                  <a href="mailto:FeynHomisolut@gmail.com">FeynHomi@gmail.com</a>
                 </div>
               </div>
               <div class="space30 d-lg-none d-block"></div>
@@ -66,7 +66,7 @@
                 </div>
                 <div class="content">
                   <h4>Phone</h4>
-                  <a href="tel:+11234567890">+1 123 456 7890</a>
+                  <a href="tel:+11234567890">+91 9151890286</a>
                 </div>
               </div>
               <div class="space30 d-lg-none d-block"></div>

@@ -48,6 +48,8 @@ return function (RouteBuilder $routes): void {
      * `{action}` markers.
      */
     $routes->setRouteClass(DashedRoute::class);
+    $routes->connect('/send-contact-mail', ['controller' => 'Pages', 'action' => 'sendContactMail']);
+
 
     $routes->scope('/', function (RouteBuilder $builder): void {
         /*
@@ -62,6 +64,9 @@ return function (RouteBuilder $routes): void {
          * ...and connect the rest of 'Pages' controller's URLs.
          */
         $builder->connect('/pages/*', 'Pages::display');
+
+    
+
 
         /*
          * Connect catchall routes for all controllers.

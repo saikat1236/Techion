@@ -96,48 +96,56 @@
               <div class="contact-author-boxarea">
                 <h3>Get In Touch Now</h3>
                 <div class="space8"></div>
+                <?= $this->Form->create(null, [
+                  'url' => ['controller' => 'Pages', 'action' => 'sendContactMail'],
+                  'class' => '', // add custom class if needed
+                ]) ?>
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="input-area">
-                      <input type="text" placeholder="First Name*">
+                      <?= $this->Form->control('first_name', ['label' => false, 'placeholder' => 'First Name*', 'required' => true]) ?>
                     </div>
                   </div>
 
                   <div class="col-lg-6">
                     <div class="input-area">
-                      <input type="text" placeholder="Last Name*">
+                      <?= $this->Form->control('last_name', ['label' => false, 'placeholder' => 'Last Name*', 'required' => true]) ?>
                     </div>
                   </div>
 
                   <div class="col-lg-6">
                     <div class="input-area">
-                      <input type="number" placeholder="Phone Number*">
+                      <?= $this->Form->control('phone', ['type' => 'tel', 'label' => false, 'placeholder' => 'Phone Number*', 'required' => true]) ?>
                     </div>
                   </div>
 
                   <div class="col-lg-6">
                     <div class="input-area">
-                      <input type="email" placeholder="Email Address*">
-                    </div>
-                  </div>
-                  <div class="col-lg-12">
-                    <div class="input-area">
-                      <input type="text" placeholder="Service Type*">
+                      <?= $this->Form->control('email', ['type' => 'email', 'label' => false, 'placeholder' => 'Email Address*', 'required' => true]) ?>
                     </div>
                   </div>
 
                   <div class="col-lg-12">
                     <div class="input-area">
-                      <textarea placeholder="Your Message"></textarea>
+                      <?= $this->Form->control('service_type', ['label' => false, 'placeholder' => 'Service Type*', 'required' => true]) ?>
                     </div>
                   </div>
+
+                  <div class="col-lg-12">
+                    <div class="input-area">
+                      <?= $this->Form->control('message', ['type' => 'textarea', 'label' => false, 'placeholder' => 'Your Message', 'required' => true]) ?>
+                    </div>
+                  </div>
+
                   <div class="col-lg-12">
                     <div class="space32"></div>
                     <div class="input-area">
-                      <button type="submit" class="vl-btn2">Get Started Now <i class="fa-solid fa-arrow-right"></i></button>
+                      <?= $this->Form->button(__('Get Started Now'), ['class' => 'vl-btn2', 'escape' => false]) ?>
                     </div>
                   </div>
                 </div>
+                <?= $this->Form->end() ?>
+
               </div>
             </div>
           </div>

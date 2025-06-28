@@ -82,4 +82,17 @@ class PagesController extends AppController
             throw new NotFoundException();
         }
     }
+
+    public function sendContactMail()
+{
+    if ($this->request->is('post')) {
+        $data = $this->request->getData();
+        // Send mail logic or save to DB
+        // $this->Flash->success('Your message has been sent!');
+        return $this->redirect(['action' => 'contact']);
+    }
+    // $this->Flash->error('Something went wrong. Please try again.');
+    return $this->redirect(['action' => 'contact']);
+}
+
 }
